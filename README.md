@@ -12,8 +12,7 @@ This project is a simple yet visually appealing expanding cards UI component bui
 - Simple and lightweight with no dependencies
 ## Demo
 
-![Expanding Cards Demo](![demovideo-ezgif com-optimize](https://github.com/user-attachments/assets/091f881a-e35a-40b5-80eb-e4a443cb589f)
-)
+![Expanding Cards Demo](https://github.com/user-attachments/assets/091f881a-e35a-40b5-80eb-e4a443cb589f)
 
 
 
