@@ -20,11 +20,11 @@ This project is a simple yet visually appealing expanding cards UI component bui
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ajs2583/Responsive-Expanding-Cards.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd your-repo-name
+   cd Responsive-Expanding-Cards
    ```
 3. Open `index.html` in a browser.
 
