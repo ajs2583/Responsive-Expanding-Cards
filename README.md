@@ -10,6 +10,12 @@ This project is a simple yet visually appealing expanding cards UI component bui
 - Responsive design for desktop and mobile
 - Built using HTML, CSS (Flexbox), and JavaScript
 - Simple and lightweight with no dependencies
+## Demo
+
+![Expanding Cards Demo](![demovideo-ezgif com-optimize](https://github.com/user-attachments/assets/091f881a-e35a-40b5-80eb-e4a443cb589f)
+)
+
+
 
 ## Installation
 
